@@ -3,7 +3,7 @@ A Java Spring Eureka Client talking to the registry
 
 ## Start this app
 A Eureka Server should be started before this application:  
-https://github.com/jizh6311/Eureka-MicroServices/edit/master/README.md
+https://github.com/jizh6311/Eureka-MicroServices
 
 Start this client App
 ```
